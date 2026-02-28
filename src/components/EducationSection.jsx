@@ -7,6 +7,8 @@ const EducationSection = () => (
         className="education container"
         aria-labelledby="education-heading"
       >
+                <h2 className="projects-heading">Qualifications</h2>
+
         <h2 id="education-heading">Education & Certifications</h2>
         <div className="edu">
           <h3>Bachelor of Computer Applications (BCA)</h3>
@@ -17,9 +19,9 @@ const EducationSection = () => (
 
           <h3>Professional Affiliations</h3>
           <ul>
+            <li>Responsive Web Design & Mobile-First Development</li>
             <li>Web Accessibility Specialist — IAAP</li>
             <li>WCAG 2.1 & Accessibility Compliance Training</li>
-            <li>Responsive Web Design & Mobile-First Design</li>
           </ul>
         </div>
       </section>

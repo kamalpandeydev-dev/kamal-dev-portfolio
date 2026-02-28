@@ -1,4 +1,4 @@
-# Kamal Pandey — Portfolio
+# Kamal Pandey — Portfolio (React)
 
 This project is a ReactJS conversion of the original static `porfolioJS` site.
 
