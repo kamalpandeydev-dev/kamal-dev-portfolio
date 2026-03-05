@@ -34,6 +34,13 @@ const ExperienceSection = () => (
             alt="Pratual Solar Power"
           >
             Pratual Solar Power
+          </a> |{" "}
+          <a
+            href="https://bharatrover.com/"
+            target="_blank"
+            alt="Pratual Solar Power"
+          >
+            Bharat Rover
           </a>
         </li>
       </ul>
